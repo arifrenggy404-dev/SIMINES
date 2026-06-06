@@ -1,0 +1,11 @@
+/vendor
+/node_modules
+.env
+.git
+.gemini/
+.agents/
+GEMINI.md
+Dockerfile
+.dockerignore
+storage/*.key
+/data/data/com.termux/files/home/.gemini/tmp/simines/memory/
